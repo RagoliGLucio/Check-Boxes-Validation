@@ -9,7 +9,7 @@ function checkForm(frm){
 	}
 
 	if(!destSel){
-		alert('Select one or more destinations');
+		alert('Hey! Select one!');
 	}
 	return destSel;
 }
